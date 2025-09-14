@@ -1,0 +1,3 @@
+# Ignore CSS files - use Stylelint instead
+*.css
+src/**/*.css
